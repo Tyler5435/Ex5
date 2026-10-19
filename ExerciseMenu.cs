@@ -77,7 +77,7 @@ namespace Ex5
                 }
                 else
                 {
-                    Console.WriteLine("Please enter 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 or 0.");
+                    Console.WriteLine("Please enter 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 or 0.");
                 }
 
                 Console.WriteLine();

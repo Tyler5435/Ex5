@@ -4,7 +4,7 @@
     {
         internal static void Main(string[] args)
         {
-            string strPassword;
+            string? strPassword;
 
             // Ask the user for the password
             Console.WriteLine("Enter your password");
